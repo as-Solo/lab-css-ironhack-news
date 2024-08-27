@@ -88,11 +88,11 @@ header {
 }
 
 .navbar li {
-  width: 130px;
+  width: 25%;
   height: 40px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
   border-right: 1px solid #ffffff;
 }
 
@@ -104,6 +104,8 @@ header {
   text-decoration: none;
   color: #fff;
   font-weight: bold;
+  margin: 0 auto;
+  text-align: center;
 }
 
 /* Articles */
